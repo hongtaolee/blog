@@ -4,7 +4,7 @@
   <title><![CDATA[Just do IT]]></title>
   <link href="http://hongtaolee.github.com/blog/atom.xml" rel="self"/>
   <link href="http://hongtaolee.github.com/blog/"/>
-  <updated>2011-11-23T13:43:13+08:00</updated>
+  <updated>2011-11-23T14:22:43+08:00</updated>
   <id>http://hongtaolee.github.com/blog/</id>
   <author>
     <name><![CDATA[Kevin]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first blog]]></title>
+    <link href="http://hongtaolee.github.com/blog/blog/2011/11/23/first-blog/"/>
+    <updated>2011-11-23T14:17:00+08:00</updated>
+    <id>http://hongtaolee.github.com/blog/blog/2011/11/23/first-blog</id>
+    <content type="html"><![CDATA[<h2>如何发布呢</h2>
+
+<h2>大哥啊</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[new-post]]></title>
