@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Just do IT]]></title>
+  <link href="http://hongtaolee.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://hongtaolee.github.com/blog/"/>
+  <updated>2011-11-23T13:43:13+08:00</updated>
+  <id>http://hongtaolee.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Kevin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[new-post]]></title>
+    <link href="http://hongtaolee.github.com/blog/blog/2011/11/23/new-post/"/>
+    <updated>2011-11-23T13:42:00+08:00</updated>
+    <id>http://hongtaolee.github.com/blog/blog/2011/11/23/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
